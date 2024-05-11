@@ -6,6 +6,13 @@ public class Typecasting {
         //float num = input.nextFloat();
 
         int num = (int) (67.56f);
-        System.out.println(num);
+        //System.out.println(num);
+
+        byte a= 100;
+        byte b=20;
+        byte c= 5;
+        int d= a * b/c;
+        System.out.println(d);
+
     }
 }
