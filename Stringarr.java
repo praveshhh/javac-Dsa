@@ -11,5 +11,11 @@ public class Stringarr{
         }
         System.out.println(Arrays.toString(str));
 
+        // modifyin the array 
+        str [1] = "Pravesh";
+
+
+        System.out.println(Arrays.toString(str));
+
     }
 }
